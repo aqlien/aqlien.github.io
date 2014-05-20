@@ -1,0 +1,4 @@
+
+
+general idea: sticky footer with nav info, dynamic sidebar = content changes as page changes, scrolling background image?
+main area in (technically) upper-left, but it should be easy to switch to the upper-right or even bottom-right if I want.
